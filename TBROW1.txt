@@ -138,6 +138,41 @@ f16670 location s49
 a44945 location s50
 
 ## tuning
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
+4ec51b maxwatts 800 # 10.0.60.60
+803187 maxwatts 1025 # 10.0.54.69
+4ec51b rebootasic 1564652192 # 10.0.60.60
+803187 rebootasic 1564652192 # 10.0.54.69
+
 # generated on Jul 26 2019 15:37:26 utc
 e12db4 maxwatts 1100 # 10.0.60.75
 e12db4 rebootasic 1564155446 # 10.0.60.75
@@ -451,3 +486,10 @@ e61a9b rebootasic 1563290318 # 10.0.54.65
 
 ## asic password
 asicpass admin
+
+
+
+
+
+
+
