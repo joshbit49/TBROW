@@ -140,6 +140,11 @@ a44945 location s50
 ## tuning
 fdbceb maxwatts 1250 # 10.0.67.41
 640292 maxwatts 1250 # 10.0.67.9
+fdbceb rebootasic 1565238408 # 10.0.67.41
+640292 rebootasic 1565238408 # 10.0.67.9
+
+fdbceb maxwatts 1250 # 10.0.67.41
+640292 maxwatts 1250 # 10.0.67.9
 fdbceb rebootasic 1565236586 # 10.0.67.41
 640292 rebootasic 1565236586 # 10.0.67.9
 
@@ -6610,6 +6615,7 @@ e61a9b rebootasic 1563290318 # 10.0.54.65
 
 ## asic password
 asicpass admin
+
 
 
 
