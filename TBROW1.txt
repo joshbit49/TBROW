@@ -141,6 +141,13 @@ a44945 location s50
 fdbceb maxwatts 1250 # 10.0.67.41
 0a4ade maxwatts 1350 # 10.0.67.28
 728e7c maxwatts 1250 # 10.0.67.13
+fdbceb rebootasic 1565358348 # 10.0.67.41
+0a4ade rebootasic 1565358348 # 10.0.67.28
+728e7c rebootasic 1565358348 # 10.0.67.13
+
+fdbceb maxwatts 1250 # 10.0.67.41
+0a4ade maxwatts 1350 # 10.0.67.28
+728e7c maxwatts 1250 # 10.0.67.13
 fdbceb rebootasic 1565356375 # 10.0.67.41
 0a4ade rebootasic 1565356375 # 10.0.67.28
 728e7c rebootasic 1565356375 # 10.0.67.13
@@ -7086,6 +7093,7 @@ e61a9b rebootasic 1563290318 # 10.0.54.65
 
 ## asic password
 asicpass admin
+
 
 
 
