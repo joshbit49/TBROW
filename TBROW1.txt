@@ -138,6 +138,41 @@ f16670 location s49
 a44945 location s50
 
 ## tuning
+e61a9b maxwatts 1425 # 10.0.54.65
+418c38 maxwatts 1425 # 10.0.54.67
+bebcdf maxwatts 1425 # 10.0.54.68
+803187 maxwatts 1425 # 10.0.54.69
+2cd597 maxwatts 1425 # 10.0.54.71
+3b93d0 maxwatts 1425 # 10.0.54.73
+03402b maxwatts 1400 # 10.0.59.134
+6ff8a0 maxwatts 1400 # 10.0.60.54
+4ec51b maxwatts 1400 # 10.0.60.60
+e12db4 maxwatts 1400 # 10.0.60.75
+07155f maxwatts 1400 # 10.0.60.106
+39bea5 maxwatts 1400 # 10.0.60.126
+6faa51 maxwatts 1400 # 10.0.60.140
+eb170d maxwatts 1250 # 10.0.65.154
+0f1f61 maxwatts 1250 # 10.0.67.56
+fdbceb maxwatts 1350 # 10.0.67.41
+12efbe maxwatts 1250 # 10.0.62.161
+e61a9b rebootasic 1565398837 # 10.0.54.65
+418c38 rebootasic 1565398837 # 10.0.54.67
+bebcdf rebootasic 1565398837 # 10.0.54.68
+803187 rebootasic 1565398837 # 10.0.54.69
+2cd597 rebootasic 1565398837 # 10.0.54.71
+3b93d0 rebootasic 1565398837 # 10.0.54.73
+03402b rebootasic 1565398837 # 10.0.59.134
+6ff8a0 rebootasic 1565398837 # 10.0.60.54
+4ec51b rebootasic 1565398837 # 10.0.60.60
+e12db4 rebootasic 1565398837 # 10.0.60.75
+07155f rebootasic 1565398837 # 10.0.60.106
+39bea5 rebootasic 1565398837 # 10.0.60.126
+6faa51 rebootasic 1565398837 # 10.0.60.140
+eb170d rebootasic 1565398837 # 10.0.65.154
+0f1f61 rebootasic 1565398837 # 10.0.67.56
+fdbceb rebootasic 1565398837 # 10.0.67.41
+12efbe rebootasic 1565398837 # 10.0.62.161
+
 #removed overheat max watts 8.9.19 18:25 UTC
 
 f16670 maxwatts 1450
@@ -220,6 +255,7 @@ da01dc maxwatts 1500
 
 ## asic password
 asicpass admin
+
 
 
 
