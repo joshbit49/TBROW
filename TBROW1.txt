@@ -139,6 +139,9 @@ a44945 location s50
 
 ## tuning
 eb170d maxwatts 1250 # 10.0.65.154
+eb170d rebootasic 1565595475 # 10.0.65.154
+
+eb170d maxwatts 1250 # 10.0.65.154
 eb170d rebootasic 1565592429 # 10.0.65.154
 
 da01dc maxwatts 1300 # 10.0.60.138
@@ -1809,6 +1812,7 @@ da01dc maxwatts 1500
 
 ## asic password
 asicpass admin
+
 
 
 
