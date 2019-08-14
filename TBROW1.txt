@@ -139,6 +139,9 @@ a44945 location s50
 
 ## tuning
 494e5b maxwatts 1250 # 10.0.67.23
+494e5b rebootasic 1565801733 # 10.0.67.23
+
+494e5b maxwatts 1250 # 10.0.67.23
 494e5b rebootasic 1565675807 # 10.0.67.23
 
 494e5b maxwatts 1250 # 10.0.67.23
@@ -1895,6 +1898,7 @@ da01dc maxwatts 1500
 
 ## asic password
 asicpass admin
+
 
 
 
