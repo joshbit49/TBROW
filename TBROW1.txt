@@ -141,6 +141,13 @@ a44945 location s50
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 494e5b maxwatts 1250 # 10.0.67.23
+eb170d rebootasic 1565849566 # 10.0.65.154
+0f1f61 rebootasic 1565849566 # 10.0.67.56
+494e5b rebootasic 1565849566 # 10.0.67.23
+
+eb170d maxwatts 1250 # 10.0.65.154
+0f1f61 maxwatts 1250 # 10.0.67.56
+494e5b maxwatts 1250 # 10.0.67.23
 eb170d rebootasic 1565848249 # 10.0.65.154
 0f1f61 rebootasic 1565848249 # 10.0.67.56
 494e5b rebootasic 1565848249 # 10.0.67.23
@@ -2063,6 +2070,7 @@ da01dc maxwatts 1500
 
 ## asic password
 asicpass admin
+
 
 
 
