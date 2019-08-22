@@ -138,6 +138,19 @@ f16670 location s49
 a44945 location s50
 
 ## tuning
+e61a9b maxwatts 1025 # 10.0.54.65
+bebcdf maxwatts 1325 # 10.0.54.68
+9bdd75 maxwatts 1350 # 10.0.67.52
+eb170d maxwatts 1250 # 10.0.65.154
+fdbceb maxwatts 1350 # 10.0.67.41
+795c1e maxwatts 1350 # 10.0.67.25
+e61a9b rebootasic 1566460746 # 10.0.54.65
+bebcdf rebootasic 1566460746 # 10.0.54.68
+9bdd75 rebootasic 1566460746 # 10.0.67.52
+eb170d rebootasic 1566460746 # 10.0.65.154
+fdbceb rebootasic 1566460746 # 10.0.67.41
+795c1e rebootasic 1566460746 # 10.0.67.25
+
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
@@ -2479,6 +2492,7 @@ da01dc maxwatts 1500
 
 ## asic password
 asicpass admin
+
 
 
 
