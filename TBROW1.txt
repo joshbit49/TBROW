@@ -718,25 +718,19 @@ eb170d rebootasic 1566464234 # 10.0.65.154
 fdbceb rebootasic 1566464234 # 10.0.67.41
 795c1e rebootasic 1566464234 # 10.0.67.25
 
-418c38 maxwatts 525 # 10.0.54.67
 9bdd75 maxwatts 1350 # 10.0.67.52
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-418c38 rebootasic 1566462487 # 10.0.54.67
 9bdd75 rebootasic 1566462487 # 10.0.67.52
 eb170d rebootasic 1566462487 # 10.0.65.154
 fdbceb rebootasic 1566462487 # 10.0.67.41
 795c1e rebootasic 1566462487 # 10.0.67.25
 
-e61a9b maxwatts 1025 # 10.0.54.65
-bebcdf maxwatts 1325 # 10.0.54.68
 9bdd75 maxwatts 1350 # 10.0.67.52
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-e61a9b rebootasic 1566460746 # 10.0.54.65
-bebcdf rebootasic 1566460746 # 10.0.54.68
 9bdd75 rebootasic 1566460746 # 10.0.67.52
 eb170d rebootasic 1566460746 # 10.0.65.154
 fdbceb rebootasic 1566460746 # 10.0.67.41
@@ -749,11 +743,9 @@ eb170d rebootasic 1566459009 # 10.0.65.154
 fdbceb rebootasic 1566459009 # 10.0.67.41
 795c1e rebootasic 1566459009 # 10.0.67.25
 
-e61a9b maxwatts 1125 # 10.0.54.65
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-e61a9b rebootasic 1566457290 # 10.0.54.65
 eb170d rebootasic 1566457290 # 10.0.65.154
 fdbceb rebootasic 1566457290 # 10.0.67.41
 795c1e rebootasic 1566457290 # 10.0.67.25
@@ -765,11 +757,9 @@ eb170d rebootasic 1566455562 # 10.0.65.154
 fdbceb rebootasic 1566455562 # 10.0.67.41
 795c1e rebootasic 1566455562 # 10.0.67.25
 
-e61a9b maxwatts 1225 # 10.0.54.65
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-e61a9b rebootasic 1566453850 # 10.0.54.65
 eb170d rebootasic 1566453850 # 10.0.65.154
 fdbceb rebootasic 1566453850 # 10.0.67.41
 795c1e rebootasic 1566453850 # 10.0.67.25
@@ -792,19 +782,8 @@ eb170d rebootasic 1566443641 # 10.0.65.154
 eb170d maxwatts 1250 # 10.0.65.154
 eb170d rebootasic 1566441948 # 10.0.65.154
 
-e61a9b maxwatts 1325 # 10.0.54.65
 eb170d maxwatts 1250 # 10.0.65.154
-e61a9b rebootasic 1566440260 # 10.0.54.65
 eb170d rebootasic 1566440260 # 10.0.65.154
-
-e61a9b maxwatts 1425 # 10.0.54.65
-bebcdf maxwatts 1425 # 10.0.54.68
-6ff8a0 maxwatts 1400 # 10.0.60.54
-07155f maxwatts 1400 # 10.0.60.106
-e61a9b rebootasic 1566430173 # 10.0.54.65
-bebcdf rebootasic 1566430173 # 10.0.54.68
-6ff8a0 rebootasic 1566430173 # 10.0.60.54
-07155f rebootasic 1566430173 # 10.0.60.106
 
 bf975b maxwatts 1350 # 10.0.67.32
 eb170d maxwatts 1250 # 10.0.65.154
@@ -848,12 +827,10 @@ eb170d rebootasic 1566379120 # 10.0.65.154
 fdbceb rebootasic 1566379120 # 10.0.67.41
 795c1e rebootasic 1566379120 # 10.0.67.25
 
-418c38 maxwatts 625 # 10.0.54.67
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-418c38 rebootasic 1566376090 # 10.0.54.67
 eb170d rebootasic 1566376090 # 10.0.65.154
 0f1f61 rebootasic 1566376090 # 10.0.67.56
 fdbceb rebootasic 1566376090 # 10.0.67.41
@@ -1230,254 +1207,198 @@ eb170d rebootasic 1566180794 # 10.0.65.154
 fdbceb rebootasic 1566180794 # 10.0.67.41
 795c1e rebootasic 1566180794 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566178999 # 10.0.54.73
 eb170d rebootasic 1566178999 # 10.0.65.154
 fdbceb rebootasic 1566178999 # 10.0.67.41
 795c1e rebootasic 1566178999 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566177195 # 10.0.54.73
 eb170d rebootasic 1566177195 # 10.0.65.154
 fdbceb rebootasic 1566177195 # 10.0.67.41
 795c1e rebootasic 1566177195 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566175420 # 10.0.54.73
 eb170d rebootasic 1566175420 # 10.0.65.154
 fdbceb rebootasic 1566175420 # 10.0.67.41
 795c1e rebootasic 1566175420 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566173642 # 10.0.54.73
 eb170d rebootasic 1566173642 # 10.0.65.154
 fdbceb rebootasic 1566173642 # 10.0.67.41
 795c1e rebootasic 1566173642 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566171857 # 10.0.54.73
 eb170d rebootasic 1566171857 # 10.0.65.154
 fdbceb rebootasic 1566171857 # 10.0.67.41
 795c1e rebootasic 1566171857 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566170067 # 10.0.54.73
 eb170d rebootasic 1566170067 # 10.0.65.154
 fdbceb rebootasic 1566170067 # 10.0.67.41
 795c1e rebootasic 1566170067 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566168299 # 10.0.54.73
 eb170d rebootasic 1566168299 # 10.0.65.154
 fdbceb rebootasic 1566168299 # 10.0.67.41
 795c1e rebootasic 1566168299 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566166518 # 10.0.54.73
 eb170d rebootasic 1566166518 # 10.0.65.154
 fdbceb rebootasic 1566166518 # 10.0.67.41
 795c1e rebootasic 1566166518 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566164772 # 10.0.54.73
 eb170d rebootasic 1566164772 # 10.0.65.154
 fdbceb rebootasic 1566164772 # 10.0.67.41
 795c1e rebootasic 1566164772 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566163009 # 10.0.54.73
 eb170d rebootasic 1566163009 # 10.0.65.154
 fdbceb rebootasic 1566163009 # 10.0.67.41
 795c1e rebootasic 1566163009 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566161256 # 10.0.54.73
 eb170d rebootasic 1566161256 # 10.0.65.154
 fdbceb rebootasic 1566161256 # 10.0.67.41
 795c1e rebootasic 1566161256 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566159503 # 10.0.54.73
 eb170d rebootasic 1566159503 # 10.0.65.154
 fdbceb rebootasic 1566159503 # 10.0.67.41
 795c1e rebootasic 1566159503 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566157763 # 10.0.54.73
 eb170d rebootasic 1566157763 # 10.0.65.154
 fdbceb rebootasic 1566157763 # 10.0.67.41
 795c1e rebootasic 1566157763 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566156016 # 10.0.54.73
 eb170d rebootasic 1566156016 # 10.0.65.154
 fdbceb rebootasic 1566156016 # 10.0.67.41
 795c1e rebootasic 1566156016 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566154285 # 10.0.54.73
 eb170d rebootasic 1566154285 # 10.0.65.154
 fdbceb rebootasic 1566154285 # 10.0.67.41
 795c1e rebootasic 1566154285 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566152547 # 10.0.54.73
 eb170d rebootasic 1566152547 # 10.0.65.154
 fdbceb rebootasic 1566152547 # 10.0.67.41
 795c1e rebootasic 1566152547 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566150816 # 10.0.54.73
 eb170d rebootasic 1566150816 # 10.0.65.154
 fdbceb rebootasic 1566150816 # 10.0.67.41
 795c1e rebootasic 1566150816 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566149112 # 10.0.54.73
 eb170d rebootasic 1566149112 # 10.0.65.154
 fdbceb rebootasic 1566149112 # 10.0.67.41
 795c1e rebootasic 1566149112 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566147382 # 10.0.54.73
 eb170d rebootasic 1566147382 # 10.0.65.154
 fdbceb rebootasic 1566147382 # 10.0.67.41
 795c1e rebootasic 1566147382 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566145676 # 10.0.54.73
 eb170d rebootasic 1566145676 # 10.0.65.154
 fdbceb rebootasic 1566145676 # 10.0.67.41
 795c1e rebootasic 1566145676 # 10.0.67.25
 
-3b93d0 maxwatts -75 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566143977 # 10.0.54.73
 eb170d rebootasic 1566143977 # 10.0.65.154
 fdbceb rebootasic 1566143977 # 10.0.67.41
 795c1e rebootasic 1566143977 # 10.0.67.25
 
-3b93d0 maxwatts 25 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566142255 # 10.0.54.73
 eb170d rebootasic 1566142255 # 10.0.65.154
 fdbceb rebootasic 1566142255 # 10.0.67.41
 795c1e rebootasic 1566142255 # 10.0.67.25
 
-3b93d0 maxwatts 125 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566140554 # 10.0.54.73
 eb170d rebootasic 1566140554 # 10.0.65.154
 fdbceb rebootasic 1566140554 # 10.0.67.41
 795c1e rebootasic 1566140554 # 10.0.67.25
 
-3b93d0 maxwatts 225 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566138838 # 10.0.54.73
 eb170d rebootasic 1566138838 # 10.0.65.154
 fdbceb rebootasic 1566138838 # 10.0.67.41
 795c1e rebootasic 1566138838 # 10.0.67.25
 
-3b93d0 maxwatts 325 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566137152 # 10.0.54.73
 eb170d rebootasic 1566137152 # 10.0.65.154
 fdbceb rebootasic 1566137152 # 10.0.67.41
 795c1e rebootasic 1566137152 # 10.0.67.25
 
-3b93d0 maxwatts 425 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566135453 # 10.0.54.73
 eb170d rebootasic 1566135453 # 10.0.65.154
 fdbceb rebootasic 1566135453 # 10.0.67.41
 795c1e rebootasic 1566135453 # 10.0.67.25
 
-3b93d0 maxwatts 525 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566133758 # 10.0.54.73
 eb170d rebootasic 1566133758 # 10.0.65.154
 fdbceb rebootasic 1566133758 # 10.0.67.41
 795c1e rebootasic 1566133758 # 10.0.67.25
 
-3b93d0 maxwatts 625 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566132071 # 10.0.54.73
 eb170d rebootasic 1566132071 # 10.0.65.154
 fdbceb rebootasic 1566132071 # 10.0.67.41
 795c1e rebootasic 1566132071 # 10.0.67.25
@@ -1489,11 +1410,9 @@ eb170d rebootasic 1566130387 # 10.0.65.154
 fdbceb rebootasic 1566130387 # 10.0.67.41
 795c1e rebootasic 1566130387 # 10.0.67.25
 
-3b93d0 maxwatts 725 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-3b93d0 rebootasic 1566128600 # 10.0.54.73
 eb170d rebootasic 1566128600 # 10.0.65.154
 fdbceb rebootasic 1566128600 # 10.0.67.41
 795c1e rebootasic 1566128600 # 10.0.67.25
@@ -1554,11 +1473,9 @@ eb170d rebootasic 1566114400 # 10.0.65.154
 fdbceb rebootasic 1566114400 # 10.0.67.41
 795c1e rebootasic 1566114400 # 10.0.67.25
 
-16c71c maxwatts 1400 # 10.0.60.105
 eb170d maxwatts 1250 # 10.0.65.154
 fdbceb maxwatts 1350 # 10.0.67.41
 795c1e maxwatts 1350 # 10.0.67.25
-16c71c rebootasic 1566112637 # 10.0.60.105
 eb170d rebootasic 1566112637 # 10.0.65.154
 fdbceb rebootasic 1566112637 # 10.0.67.41
 795c1e rebootasic 1566112637 # 10.0.67.25
@@ -1606,10 +1523,8 @@ eb170d maxwatts 1250 # 10.0.65.154
 eb170d rebootasic 1566093550 # 10.0.65.154
 0f1f61 rebootasic 1566093550 # 10.0.67.56
 
-3b93d0 maxwatts 825 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
-3b93d0 rebootasic 1566091838 # 10.0.54.73
 eb170d rebootasic 1566091838 # 10.0.65.154
 0f1f61 rebootasic 1566091838 # 10.0.67.56
 
@@ -1887,20 +1802,16 @@ eb170d maxwatts 1250 # 10.0.65.154
 eb170d rebootasic 1565928910 # 10.0.65.154
 0f1f61 rebootasic 1565928910 # 10.0.67.56
 
-3b93d0 maxwatts 925 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-3b93d0 rebootasic 1565896845 # 10.0.54.73
 eb170d rebootasic 1565896845 # 10.0.65.154
 0f1f61 rebootasic 1565896845 # 10.0.67.56
 fdbceb rebootasic 1565896845 # 10.0.67.41
 
-3b93d0 maxwatts 925 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-3b93d0 rebootasic 1565896015 # 10.0.54.73
 eb170d rebootasic 1565896015 # 10.0.65.154
 0f1f61 rebootasic 1565896015 # 10.0.67.56
 fdbceb rebootasic 1565896015 # 10.0.67.41
@@ -1912,11 +1823,9 @@ eb170d rebootasic 1565894790 # 10.0.65.154
 0f1f61 rebootasic 1565894790 # 10.0.67.56
 fdbceb rebootasic 1565894790 # 10.0.67.41
 
-3b93d0 maxwatts 1025 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-3b93d0 rebootasic 1565893755 # 10.0.54.73
 eb170d rebootasic 1565893755 # 10.0.65.154
 0f1f61 rebootasic 1565893755 # 10.0.67.56
 fdbceb rebootasic 1565893755 # 10.0.67.41
@@ -2054,11 +1963,9 @@ eb170d rebootasic 1565872060 # 10.0.65.154
 0f1f61 rebootasic 1565872060 # 10.0.67.56
 fdbceb rebootasic 1565872060 # 10.0.67.41
 
-3b93d0 maxwatts 1125 # 10.0.54.73
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-3b93d0 rebootasic 1565870589 # 10.0.54.73
 eb170d rebootasic 1565870589 # 10.0.65.154
 0f1f61 rebootasic 1565870589 # 10.0.67.56
 fdbceb rebootasic 1565870589 # 10.0.67.41
@@ -2098,20 +2005,16 @@ eb170d rebootasic 1565864698 # 10.0.65.154
 0f1f61 rebootasic 1565864698 # 10.0.67.56
 fdbceb rebootasic 1565864698 # 10.0.67.41
 
-418c38 maxwatts 725 # 10.0.54.67
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-]418c38 rebootasic 1565862944 # 10.0.54.67
 eb170d rebootasic 1565862944 # 10.0.65.154
 0f1f61 rebootasic 1565862944 # 10.0.67.56
 fdbceb rebootasic 1565862944 # 10.0.67.41
 
-418c38 maxwatts 725 # 10.0.54.67
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-418c38 rebootasic 1565862297 # 10.0.54.67
 eb170d rebootasic 1565862297 # 10.0.65.154
 0f1f61 rebootasic 1565862297 # 10.0.67.56
 fdbceb rebootasic 1565862297 # 10.0.67.41
@@ -2123,20 +2026,16 @@ eb170d rebootasic 1565859599 # 10.0.65.154
 0f1f61 rebootasic 1565859599 # 10.0.67.56
 fdbceb rebootasic 1565859599 # 10.0.67.41
 
-418c38 maxwatts 825 # 10.0.54.67
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-418c38 rebootasic 1565858456 # 10.0.54.67
 eb170d rebootasic 1565858456 # 10.0.65.154
 0f1f61 rebootasic 1565858456 # 10.0.67.56
 fdbceb rebootasic 1565858456 # 10.0.67.41
 
-418c38 maxwatts 825 # 10.0.54.67
 eb170d maxwatts 1250 # 10.0.65.154
 0f1f61 maxwatts 1250 # 10.0.67.56
 fdbceb maxwatts 1350 # 10.0.67.41
-418c38 rebootasic 1565857783 # 10.0.54.67
 eb170d rebootasic 1565857783 # 10.0.65.154
 0f1f61 rebootasic 1565857783 # 10.0.67.56
 fdbceb rebootasic 1565857783 # 10.0.67.41
@@ -3079,6 +2978,7 @@ adb312 maxwatts 1500
 5dc1a8 maxwatts 1500
 da01dc maxwatts 1500
 6faa51 maxwatts 1500
+
 3b93d0 retune 1
 
 ## asic password
