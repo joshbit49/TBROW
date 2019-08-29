@@ -140,6 +140,9 @@ a44945 location s50
 
 ## tuning
 bf975b maxwatts 1400 # 10.0.67.32
+bf975b rebootasic 1567091317 # 10.0.67.32
+
+bf975b maxwatts 1400 # 10.0.67.32
 bf975b rebootasic 1567089668 # 10.0.67.32
 
 bf975b maxwatts 1400 # 10.0.67.32
@@ -1174,6 +1177,7 @@ db4511 retune 1
 
 ## asic password
 asicpass admin
+
 
 
 
