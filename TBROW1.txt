@@ -140,6 +140,15 @@ a44945 location s50
 
 ## tuning
 9bdd75 maxwatts 1400 # 10.0.67.52
+11664a maxwatts 1400 # 10.0.67.43
+0e26a9 maxwatts 1400 # 10.0.67.51
+728e7c maxwatts 1400 # 10.0.67.13
+9bdd75 rebootasic 1567060742 # 10.0.67.52
+11664a rebootasic 1567060742 # 10.0.67.43
+0e26a9 rebootasic 1567060742 # 10.0.67.51
+728e7c rebootasic 1567060742 # 10.0.67.13
+
+9bdd75 maxwatts 1400 # 10.0.67.52
 70fe6e maxwatts 1400 # 10.0.67.11
 728e7c maxwatts 1400 # 10.0.67.13
 9bdd75 rebootasic 1567059040 # 10.0.67.52
@@ -1023,6 +1032,7 @@ db4511 retune 1
 
 ## asic password
 asicpass admin
+
 
 
 
