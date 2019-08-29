@@ -145,6 +145,27 @@ d830a5 maxwatts 1400 # 10.0.59.42
 11664a maxwatts 1400 # 10.0.67.43
 fdbceb maxwatts 1400 # 10.0.67.41
 0a4ade maxwatts 1400 # 10.0.67.28
+18b1ae maxwatts 1400 # 10.0.67.16
+22efe8 maxwatts 1400 # 10.0.67.7
+ab21b7 maxwatts 1400 # 10.0.67.35
+7f9402 maxwatts 1400 # 10.0.67.5
+bf975b rebootasic 1567052256 # 10.0.67.32
+70fe6e rebootasic 1567052256 # 10.0.67.11
+d830a5 rebootasic 1567052256 # 10.0.59.42
+11664a rebootasic 1567052256 # 10.0.67.43
+fdbceb rebootasic 1567052256 # 10.0.67.41
+0a4ade rebootasic 1567052256 # 10.0.67.28
+18b1ae rebootasic 1567052256 # 10.0.67.16
+22efe8 rebootasic 1567052256 # 10.0.67.7
+ab21b7 rebootasic 1567052256 # 10.0.67.35
+7f9402 rebootasic 1567052256 # 10.0.67.5
+
+bf975b maxwatts 1400 # 10.0.67.32
+70fe6e maxwatts 1400 # 10.0.67.11
+d830a5 maxwatts 1400 # 10.0.59.42
+11664a maxwatts 1400 # 10.0.67.43
+fdbceb maxwatts 1400 # 10.0.67.41
+0a4ade maxwatts 1400 # 10.0.67.28
 795c1e maxwatts 1400 # 10.0.67.25
 18b1ae maxwatts 1400 # 10.0.67.16
 22efe8 maxwatts 1400 # 10.0.67.7
@@ -950,6 +971,7 @@ db4511 retune 1
 
 ## asic password
 asicpass admin
+
 
 
 
