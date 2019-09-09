@@ -18,12 +18,12 @@ global sendworker3 yes
 global asicboost yes
 global autotune yes
 global maxwatts 1500
-
 global autoupdate yes
 global allowed yes
 global maxtemp 90
 global fanspeed 100
-# global fansaver 65
+global fansaver yes
+global blinkred idle
 global blinkgreen rapid
 
 global retune 1
@@ -35,56 +35,6 @@ global rebootasic 6
 # group=rowd allowed no
 
 ## vlans
-# vlan 10.0.32.46-46
-# vlan 10.0.32.47-47
-# vlan 10.0.32.48-48
-# vlan 10.0.32.49-49
-# vlan 10.0.32.50-50
-# vlan 10.0.32.51-51
-# vlan 10.0.32.52-52
-# vlan 10.0.32.53-53
-# vlan 10.0.32.54-54
-# vlan 10.0.32.55-55
-# vlan 10.0.32.56-56
-# vlan 10.0.32.57-57
-# vlan 10.0.32.58-58
-# vlan 10.0.32.59-59
-# vlan 10.0.54.64-64
-# vlan 10.0.54.65-65
-# vlan 10.0.54.66-66
-# vlan 10.0.54.67-67
-# vlan 10.0.54.68-68
-# vlan 10.0.54.69-69
-# vlan 10.0.54.70-70
-# vlan 10.0.54.71-71
-# vlan 10.0.54.72-72
-# vlan 10.0.54.73-73
-# vlan 10.0.59.42-42
-# vlan 10.0.59.113-113
-# vlan 10.0.59.117-117
-# vlan 10.0.59.119-119
-# vlan 10.0.59.122-122
-# vlan 10.0.59.125-125
-# vlan 10.0.59.134-134
-# vlan 10.0.59.158-158
-# vlan 10.0.60.3-3
-# vlan 10.0.60.49-49
-# vlan 10.0.60.54-54
-# vlan 10.0.60.60-60
-# vlan 10.0.60.75-75
-# vlan 10.0.60.79-79
-# vlan 10.0.60.92-92
-# vlan 10.0.60.98-98
-# vlan 10.0.60.101-101
-# vlan 10.0.60.103-103
-# vlan 10.0.60.105-105
-# vlan 10.0.60.106-106
-# vlan 10.0.60.114-114
-# vlan 10.0.60.126-126
-# vlan 10.0.60.134-134
-# vlan 10.0.60.138-138
-# vlan 10.0.60.140-140
-# vlan 10.0.61.56-56
 vlan 10.0.62.161-161
 vlan 10.0.65.150-150
 vlan 10.0.65.154-154
@@ -137,56 +87,6 @@ vlan 10.0.67.53-53
 vlan 10.0.67.56-56
 
 ## locations
-# adad49 location TBROW00001
-# aa5a42 location TBROW00002
-# 4a07bd location TBROW00003
-# 6fd056 location TBROW00004
-# efc969 location TBROW00005
-# 1c9a9d location TBROW00006
-# 9ae6af location TBROW00007
-# c7a6d8 location TBROW00008
-# 14b55f location TBROW00009
-# 9821db location TBROW00010
-# 833da0 location TBROW00011
-# 58aa3a location TBROW00012
-# f0b740 location TBROW00013
-# e9a6cf location TBROW00014
-# 69adfb location TBROW00015
-# e61a9b location TBROW00016
-# 1e68e9 location TBROW00017
-# 418c38 location TBROW00018
-# bebcdf location TBROW00019
-# 803187 location TBROW00020
-# 789895 location TBROW00021
-# 2cd597 location TBROW00022
-# da121e location TBROW00023
-# 3b93d0 location TBROW00024
-# d830a5 location TBROW00025
-# 160396 location TBROW00026
-# 004faa location TBROW00027
-# 0b2f9f location TBROW00028
-# 715335 location TBROW00029
-# 3a81c2 location TBROW00030
-# 03402b location TBROW00031
-# fbb18b location TBROW00032
-# 69e1ce location TBROW00033
-# b5dba0 location TBROW00034
-# 6ff8a0 location TBROW00035
-# 4ec51b location TBROW00036
-# e12db4 location TBROW00037
-# 407bad location TBROW00038
-# 3c6079 location TBROW00039
-# cb35ba location TBROW00040
-# adb312 location TBROW00041
-# 3c84e9 location TBROW00042
-# 16c71c location TBROW00043
-# 07155f location TBROW00044
-# 34223c location TBROW00045
-# 39bea5 location TBROW00046
-# 5dc1a8 location TBROW00047
-# da01dc location TBROW00048
-# 6faa51 location TBROW00049
-# 891907 location TBROW00050
 12efbe location TBROW00051
 551582 location TBROW00052
 eb170d location TBROW00053
