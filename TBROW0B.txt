@@ -2,17 +2,17 @@
 
 global custompanel TBROW0bit049
 
-global poolname1 eu.ss.btc.com:1800
-global username1 tnttbtceu
-global poolpass1 x
+global poolname1 prohashing.com:3335
+global username1 cryptotntt
+global poolpass1 o=S9,w=1360,p=0.04533
 global sendworker1 yes
-global poolname2 profit.pool.bitcoin.com:3333
-global username2 cryptotntt
+global poolname2 eu.ss.btc.com:1800
+global username2 tnttbtceu
 global poolpass2 x
 global sendworker2 yes
-global poolname3 prohashing.com:3335
+global poolname3 profit.pool.bitcoin.com:3333
 global username3 cryptotntt
-global poolpass3 o=S9,w=1360,p=0.04533
+global poolpass3 x
 global sendworker3 yes
 
 global asicboost yes
