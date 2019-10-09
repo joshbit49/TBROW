@@ -141,5 +141,21 @@ da01dc location TBROW00048
 
 ## tuning
 
+## reboots
+# s_reboot generated on Oct 09 2019 18:33:47 utc: 1570646027
+58aa3a rebootasic 1570646027 # 10.0.32.57 tbrow00012
+e61a9b rebootasic 1570646027 # 10.0.54.65 tbrow00016
+bebcdf rebootasic 1570646027 # 10.0.54.68 tbrow00019
+715335 rebootasic 1570646027 # 10.0.59.122 tbrow00029
+03402b rebootasic 1570646027 # 10.0.59.134 tbrow00031
+69e1ce rebootasic 1570646027 # 10.0.60.3 tbrow00033
+cb35ba rebootasic 1570646027 # 10.0.60.98 tbrow00040
+07155f rebootasic 1570646027 # 10.0.60.106 tbrow00044
+5dc1a8 rebootasic 1570646027 # 10.0.60.134 tbrow00047
+6faa51 rebootasic 1570646027 # 10.0.60.140 tbrow00049
+891907 rebootasic 1570646027 # 10.0.61.56 tbrow00050
+
+## resets
+
 ## asic password
 asicpass admin
