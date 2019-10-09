@@ -159,6 +159,19 @@ dd51b7 rebootasic 1570646027 # 10.0.67.26 tbrow00081
 78698e rebootasic 1570646027 # 10.0.67.53 tbrow00099
 
 ## resets
+6d061b resetasic 1570649423
+70fe6e resetasic 1570649423
+10d06a resetasic 1570649423
+728e7c resetasic 1570649423
+18b1ae resetasic 1570649423
+3a984c resetasic 1570649423
+f16670 resetasic 1570649423
+795c1e resetasic 1570649423
+dd51b7 resetasic 1570649423
+1ed5db resetasic 1570649423
+ab21b7 resetasic 1570649423
+11664a resetasic 1570649423
+78698e resetasic 1570649423
 
 ## asic password
 asicpass admin
