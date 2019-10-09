@@ -156,6 +156,13 @@ cb35ba rebootasic 1570646027 # 10.0.60.98 tbrow00040
 891907 rebootasic 1570646027 # 10.0.61.56 tbrow00050
 
 ## resets
+58aa3a resetasic 1570649423
+e9a6cf resetasic 1570649423
+715335 resetasic 1570649423
+03402b resetasic 1570649423
+cb35ba resetasic 1570649423
+07155f resetasic 1570649423
+5dc1a8 resetasic 1570649423
 
 ## asic password
 asicpass admin
