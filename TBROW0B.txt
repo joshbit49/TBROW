@@ -142,5 +142,23 @@ f128ab location TBROW00096
 db4511 retune 1
 3b93d0 retune 1
 
+## reboots
+# s_reboot generated on Oct 09 2019 18:33:47 utc: 1570646027
+f128ab rebootasic 1570646027 # 10.0.67.50 tbrow00096
+10d06a rebootasic 1570646027 # 10.0.67.12 tbrow00071
+18b1ae rebootasic 1570646027 # 10.0.67.16 tbrow00074
+1ed5db rebootasic 1570646027 # 10.0.67.33 tbrow00085
+a6a4fb rebootasic 1570646027 # 10.0.67.42 tbrow00090
+ab21b7 rebootasic 1570646027 # 10.0.67.35 tbrow00086
+f6a043 rebootasic 1570646027 # 10.0.66.95 tbrow00056
+a44945 rebootasic 1570646027 # 10.0.66.144 tbrow00058
+6d061b rebootasic 1570646027 # 10.0.66.150 tbrow00061
+795c1e rebootasic 1570646027 # 10.0.67.25 tbrow00080
+dd51b7 rebootasic 1570646027 # 10.0.67.26 tbrow00081
+9beff8 rebootasic 1570646027 # 10.0.67.44 tbrow00092
+78698e rebootasic 1570646027 # 10.0.67.53 tbrow00099
+
+## resets
+
 ## asic password
 asicpass admin
