@@ -29,7 +29,7 @@ global blinkgreen rapid
 
 global retune 1
 global rebootasic 9
-# global resetasic 1
+global resetasic 1570739175
 # global panelpass gj83Nkgikg
 
 # group=rowc rebootasic 1
