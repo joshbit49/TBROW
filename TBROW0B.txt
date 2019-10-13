@@ -21,8 +21,8 @@ global maxwatts 1500
 global autoupdate yes
 global allowed yes
 global maxtemp 90
-global fanspeed 50
-global fansaver no
+global fanspeed 100
+global fansaver yes
 global blinkred idle
 global blinkgreen rapid
 
@@ -143,20 +143,20 @@ db4511 retune 1
 3b93d0 retune 1
 
 ## fans
-e61a9b fanspeed 100
-d830a5 fanspeed 100
-3c6079 fanspeed 100
-e30009 fanspeed 100
-728e7c fanspeed 100
-2997d7 fanspeed 100
-0e26a9 fanspeed 100
-407bad fanspeed 100
-07155f fanspeed 100
-6faa51 fanspeed 100
-0c44c2 fanspeed 100
-7f9402 fanspeed 100
-d1214b fanspeed 100
-bf975b fanspeed 100
+# e61a9b fanspeed 100
+# d830a5 fanspeed 100
+# 3c6079 fanspeed 100
+# e30009 fanspeed 100
+# 728e7c fanspeed 100
+# 2997d7 fanspeed 100
+# 0e26a9 fanspeed 100
+# 407bad fanspeed 100
+# 07155f fanspeed 100
+# 6faa51 fanspeed 100
+# 0c44c2 fanspeed 100
+# 7f9402 fanspeed 100
+# d1214b fanspeed 100
+# bf975b fanspeed 100
 
 ## reboots
 407bad rebootasic 1570758745 # 10.0.60.79 tbrow00038
