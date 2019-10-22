@@ -159,6 +159,15 @@ db4511 retune 1
 # bf975b fanspeed 100
 
 ## reboots
+12efbe resetasic 1571779307
+eb170d resetasic 1571779307
+19d799 resetasic 1571779307
+876b58 resetasic 1571779307
+209839 resetasic 1571779307
+70fe6e resetasic 1571779307
+728e7c resetasic 1571779307
+0f1f61 resetasic 1571779307
+
 407bad rebootasic 1570758745 # 10.0.60.79 tbrow00038
 07155f rebootasic 1570758745 # 10.0.60.106 tbrow00044
 6faa51 rebootasic 1570758745 # 10.0.60.140 tbrow00049
