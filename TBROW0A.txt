@@ -142,6 +142,14 @@ da01dc location TBROW00048
 ## tuning
 
 ## reboots
+2cd597 resetasic 1571779307
+3b93d0 resetasic 1571779307
+407bad resetasic 1571779307
+07155f resetasic 1571779307
+5dc1a8 resetasic 1571779307
+da01dc resetasic 1571779307
+891907 resetasic 1571779307
+
 # s_reboot generated on Oct 09 2019 18:33:47 utc: 1570646027
 58aa3a rebootasic 1570646027 # 10.0.32.57 tbrow00012
 e61a9b rebootasic 1570646027 # 10.0.54.65 tbrow00016
