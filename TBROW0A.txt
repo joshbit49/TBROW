@@ -2,6 +2,7 @@
 ## TOTAL EXP HASHRATE 100 s9 @ 16 Th/s = 1600 Th/s
 
 global custompanel TBROW0bit049
+global customer bit49
 
 global poolname1 profit.pool.bitcoin.com:3333
 global username1 cryptotntt
