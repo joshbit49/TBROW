@@ -21,19 +21,17 @@ global autotune yes
 global maxwatts 1500
 global autoupdate yes
 global allowed yes
-global maxtemp 90
+global maxtemp 90 1
+# global throttle 100
 global fanspeed 100
 global fansaver yes
 global blinkred idle
 global blinkgreen rapid
 
-global retune 1
-global rebootasic 1571791600
-global resetasic 1570739175
+# global retune 1
+# global reboot 1571791600
+# global reset 1570739175
 # global panelpass gj83Nkgikg
-
-# group=rowc rebootasic 1
-# group=rowd allowed no
 
 ## vlans
 vlan 10.0.62.161-161
@@ -140,71 +138,12 @@ f128ab location TBROW00096
 0f1f61 location TBROW00100
 
 ## tuning
-db4511 retune 1
-3b93d0 retune 1
 
 ## fans
-# e61a9b fanspeed 100
-# d830a5 fanspeed 100
-# 3c6079 fanspeed 100
-# e30009 fanspeed 100
-# 728e7c fanspeed 100
-# 2997d7 fanspeed 100
-# 0e26a9 fanspeed 100
-# 407bad fanspeed 100
-# 07155f fanspeed 100
-# 6faa51 fanspeed 100
-# 0c44c2 fanspeed 100
-# 7f9402 fanspeed 100
-# d1214b fanspeed 100
-# bf975b fanspeed 100
 
 ## reboots
-12efbe resetasic 1571779307
-eb170d resetasic 1571779307
-19d799 resetasic 1571779307
-876b58 resetasic 1571779307
-209839 resetasic 1571779307
-70fe6e resetasic 1571779307
-728e7c resetasic 1571779307
-0f1f61 resetasic 1571779307
-
-407bad rebootasic 1570758745 # 10.0.60.79 tbrow00038
-07155f rebootasic 1570758745 # 10.0.60.106 tbrow00044
-6faa51 rebootasic 1570758745 # 10.0.60.140 tbrow00049
-0c44c2 rebootasic 1570758745 # 10.0.67.2 tbrow00063
-7f9402 rebootasic 1570758745 # 10.0.67.5 tbrow00066
-d1214b rebootasic 1570758745 # 10.0.67.19 tbrow00077
-bf975b rebootasic 1570758745 # 10.0.67.32 tbrow00084
-# s_reboot generated on Oct 09 2019 18:33:47 utc: 1570646027
-f128ab rebootasic 1570646027 # 10.0.67.50 tbrow00096
-10d06a rebootasic 1570646027 # 10.0.67.12 tbrow00071
-18b1ae rebootasic 1570646027 # 10.0.67.16 tbrow00074
-1ed5db rebootasic 1570646027 # 10.0.67.33 tbrow00085
-a6a4fb rebootasic 1570646027 # 10.0.67.42 tbrow00090
-ab21b7 rebootasic 1570646027 # 10.0.67.35 tbrow00086
-f6a043 rebootasic 1570646027 # 10.0.66.95 tbrow00056
-a44945 rebootasic 1570646027 # 10.0.66.144 tbrow00058
-6d061b rebootasic 1570646027 # 10.0.66.150 tbrow00061
-795c1e rebootasic 1570646027 # 10.0.67.25 tbrow00080
-dd51b7 rebootasic 1570646027 # 10.0.67.26 tbrow00081
-9beff8 rebootasic 1570646027 # 10.0.67.44 tbrow00092
-78698e rebootasic 1570646027 # 10.0.67.53 tbrow00099
 
 ## resets
-6d061b resetasic 1570649423
-70fe6e resetasic 1570649423
-10d06a resetasic 1570649423
-728e7c resetasic 1570649423
-18b1ae resetasic 1570649423
-3a984c resetasic 1570649423
-f16670 resetasic 1570649423
-795c1e resetasic 1570649423
-dd51b7 resetasic 1570649423
-1ed5db resetasic 1570649423
-ab21b7 resetasic 1570649423
-11664a resetasic 1570649423
-78698e resetasic 1570649423
 
 ## asic password
 asicpass admin
