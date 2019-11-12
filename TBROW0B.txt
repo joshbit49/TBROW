@@ -138,6 +138,9 @@ f128ab location TBROW00096
 0f1f61 location TBROW00100
 
 ## tuning
+# s_reboot generated on Nov 12 2019 12:31:43 utc: 1573561903
+19d799 reboot 1573561903 # 10.0.66.147 tbrow00060
+f128ab reboot 1573561903 # 10.0.67.50 tbrow00096
 
 ## fans
 
