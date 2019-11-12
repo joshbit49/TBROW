@@ -139,6 +139,13 @@ da01dc location TBROW00048
 891907 location TBROW00050
 
 ## tuning
+3a5117 maxwatts 1000 # 10.0.66.145
+b5dba0 maxwatts 1100 # 10.0.60.49
+1adc88 maxwatts 1300 # 10.0.66.143
+3a5117 reboot 1573575924 # 10.0.66.145
+b5dba0 reboot 1573575924 # 10.0.60.49
+1adc88 reboot 1573575924 # 10.0.66.143
+
 adb312 maxwatts 1200 # 10.0.60.101
 07155f maxwatts 900 # 10.0.60.106
 16c71c maxwatts 1300 # 10.0.60.105
@@ -242,6 +249,7 @@ f6a043 reboot 1573511910 # 10.0.66.95 tbrow00056
 
 ## asic password
 asicpass admin
+
 
 
 
