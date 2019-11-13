@@ -138,6 +138,16 @@ f128ab location TBROW00096
 0f1f61 location TBROW00100
 
 ## tuning
+876b58 reboot 1573618512 # 10.0.66.159 tbrow00062
+f128ab reboot 1573618512 # 10.0.67.50 tbrow00096
+07155f reboot 1573618512 # 10.0.60.106 tbrow00044
+19d799 reboot 1573618512 # 10.0.66.147 tbrow00060
+3a81c2 reboot 1573618512 # 10.0.59.125 tbrow00030
+d830a5 reboot 1573618512 # 10.0.59.42 tbrow00025
+12efbe reboot 1573618512 # 10.0.62.161 tbrow00051
+a6a4fb reboot 1573618512 # 10.0.67.42 tbrow00090
+ 
+
 3c84e9 maxwatts 1200 # 10.0.60.103
 9b3778 maxwatts 1300 # 10.0.67.47
 3c84e9 reboot 1573617306 # 10.0.60.103
@@ -250,6 +260,7 @@ f6a043 reboot 1573587478 # 10.0.66.95
 
 ## asic password
 asicpass admin
+
 
 
 
