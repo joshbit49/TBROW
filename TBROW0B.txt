@@ -138,6 +138,9 @@ f128ab location TBROW00096
 0f1f61 location TBROW00100
 
 ## tuning
+6faa51 maxwatts 1100 # 10.0.60.140
+6faa51 reboot 1574129117 # 10.0.60.140
+
 5dc1a8 maxwatts 1200 # 10.0.60.134
 5dc1a8 reboot 1574126287 # 10.0.60.134
 
@@ -713,6 +716,7 @@ f6a043 reboot 1573587478 # 10.0.66.95
 
 ## asic password
 asicpass admin
+
 
 
 
