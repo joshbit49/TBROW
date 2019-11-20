@@ -142,6 +142,14 @@ f128ab location TBROW00096
 ## fans
 
 ## reboots
+8943b5 reboot 1574278930
+0c44c2 reboot 1574278930
+7f9402 reboot 1574278930
+dd51b7 reboot 1574278930
+fdbceb reboot 1574278930
+0f1f61 reboot 1574278930
+2ae3eb reboot 1574278930
+
 
 ## resets
 
