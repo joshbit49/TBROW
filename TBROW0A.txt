@@ -143,6 +143,13 @@ da01dc location TBROW00048
 ## fans
 
 ## reboots
+e61a9b reboot 1574278930
+418c38 reboot 1574278930
+803187 reboot 1574278930
+6ff8a0 reboot 1574278930
+3c6079 reboot 1574278930
+39bea5 reboot 1574278930
+
 
 ## resets
 
