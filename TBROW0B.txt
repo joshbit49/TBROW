@@ -148,7 +148,6 @@ f128ab location TBROW00096
 dd51b7 reboot 1574278930
 fdbceb reboot 1574278930
 0f1f61 reboot 1574278930
-2ae3eb reboot 1574278930
 
 
 ## resets
