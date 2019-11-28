@@ -144,6 +144,7 @@ da01dc location TBROW00048
 ## fans
 
 ## reboots
+34223c reboot 1574909116 # 10.0.60.114 tbrow00045
 e61a9b reboot 1574278930
 418c38 reboot 1574278930
 803187 reboot 1574278930
